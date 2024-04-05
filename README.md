@@ -1,5 +1,5 @@
 # CMSC 202 - Project 2
-This is my code from project 2 of the University of Maryland - Baltimore County's CMSC 202 class. I took this class in October of 2020, and this project was completed then, and has not been updated since then. At this time I have no intent to update the project further, or make any changes to the project.
+This is my code from project 2 of the University of Maryland - Baltimore County's CMSC 202 class. I took this class in October of 2020. This project was completed then, and has not been updated since then. At this time I have no intent to update the project further, or make any changes to the project.
 
 ## Statement of Purpose
 This project is being uploaded to provide students with an example of the concepts taught by the project. This is not meant to serve as a solution to any current projects, and any semblance of such is merely coincidental. This (and my other projects) are additionally posted here for posterity, and availability.
