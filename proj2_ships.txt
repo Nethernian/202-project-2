@@ -1,0 +1,15 @@
+Barque,5,5,8,A sailing ship with from three to five masts all of them square-rigged except the after mast which is fore-and-aft rigged; a small vessel that is propelled by oars or sails. A Barque has 5 cannons, 5 toughness, and 8 speed.
+Brigantine,8,8,5,A medium sized sailing ship with two-masts with her foremast fully square-rigged and her mainmast rigged with both a fore-and-aft mainsail and square topsails and possibly topgallant sails. A Brigantine has 8 cannons, 8 toughness, and 5 speed.
+Caravel,4,5,9,A small fast Spanish or Portuguese sailing ship of the 15th to the 17th centuries. A Caravel has 4 cannons, 5 toughness, and 9 speed.
+Carrack,5,9,4,A large merchant ship of a kind operating in European waters in the 14th to the 17th century. A Carrack has 5 cannons, 9 toughness, and 4 speed.
+Clipper,5,5,8,A fast yacht-like ship with three sails and a square rig. A Clipper has 5 cannons, 5 toughness, and 8 speed.
+Frigate,5,5,9,A small warship built for speed and maneuverability but not large enough to block attackers directly. A Frigate has 5 cannons, 5 toughness, and 9 speed.
+Galleon,5,10,4,A large three-masted sailing ship with a square rig and usually two or more decks used from the 15th to the 17th century especially by Spain as a merchant ship or warship. A Galleon has 5 cannons, 10 toughness, and 4 speed.
+Galley,4,9,5,A low flat ship with one or more sails and up to three banks of oars chiefly used for warfare trade and piracy. A Galley has 4 cannons, 9 toughness, and 5 speed.
+Ketch,4,7,6,A two-masted fore-and-aft-rigged sailboat with a mizzenmast stepped forward of the rudder and smaller than the foremast. A Ketch has 4 cannons, 7 toughness, and 6 speed.
+Man O War,10,9,3,A heavily armed vessel designed and outfitted for battle. A Man O War has 10 cannons, 9 toughness, and 3 speed.
+Queen Anne's Revenge,10,10,7,An early-18th-century ship most famously used as a flagship by Edward Teach better known by his nickname Blackbeard. A Queen Anne's Revenge has 10 cannons, 10 toughness, and 7 speed.
+Schooner,3,5,9,A fore-and-aft rigged sailing vessel having at least two masts with a foremast that is usually smaller than the other masts. A Schooner has 3 cannons, 5 toughness, and 9 speed.
+Ship of the Line,9,10,3,A ship of the line was a type of naval warship constructed from the 17th century to the mid-19th century. A Ship of the Line has 9 cannons, 10 toughness, and 3 speed.
+Sloop,4,4,10,A single-masted fore-and-aft-rigged sailing boat with a short standing bowsprit or none at all and a single headsail set from the forestay. This boat was much favored by the pirates because of its shallow draught and maneuverability. A Sloop has 4 cannons, 4 toughness, and 10 speed.
+The Dutch Fleut,2,9,5,A medium sized cargo ship with almost no armnament. A The Dutch Fleut has 2 cannons, 9 toughness, and 5 speed.
